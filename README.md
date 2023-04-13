@@ -1,5 +1,6 @@
 # React Quickstart
 
+Basic React application
 
 ## Install
 
